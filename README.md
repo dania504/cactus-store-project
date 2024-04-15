@@ -1,5 +1,5 @@
 # cactus-store-project
-Configuration
+## Configuration
 
 The store can be configured by editing the config.js file.
 
